@@ -22,20 +22,19 @@ To run the code and exercises in this repository, you will need to have the foll
 - Additional dependencies as mentioned in each subdirectory's README file
 # Getting Started
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/Tensorflow-Developer-Certificate.git
+git clone https://github.com/hasanzeynal/Tensorflow-Developer-Certificate.git
 2. Navigate to the specific directory for the project or topic you are interested in, e.g., computer_vision_cnn/ for computer vision and CNN-related projects.
-
 3. Follow the instructions provided in each project's README file to set up the environment and run the code.
 
 # Certification
 The Tensorflow Developer Certificate is earned by completing the required projects and exercises in this repository and passing the final examination. Each project focuses on practical implementations of deep learning concepts using Tensorflow.
 
 # Resources
-- Tensorflow Official Documentation
-- Tensorflow Developer Certificate Program
-- Deep Learning Specialization by deeplearning.ai
+- [Tensorflow Official Documentation]()
+- [Tensorflow Developer Certificate Program]()
+- [TensorFlow Developer Certificate in 2023: Zero to Mastery by Udemy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
 Feel free to explore the different directories and dive into the projects to gain a deeper understanding of deep learning, Tensorflow, computer vision, NLP, and time series analysis.
 
-Note: This repository is a work in progress and will be continually updated with new projects and exercises as I progress through the Tensorflow Developer Certificate program.
+[Note:] This repository is a work in progress and will be continually updated with new projects and exercises as I progress through the Tensorflow Developer Certificate program.
 
 If you have any questions or suggestions, feel free to reach out or submit an issue. Happy learning!
