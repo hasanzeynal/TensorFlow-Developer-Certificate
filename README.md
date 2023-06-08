@@ -2,16 +2,16 @@
 This repository contains the projects and exercises completed as part of the Tensorflow Developer Certificate program. The certification program covers various topics in deep learning, Tensorflow fundamentals, computer vision, natural language processing (NLP), time series analysis, and more.
 
 # Table of Contents
-[Deep Learning and Tensorflow Fundamentals]
+- [Deep Learning and Tensorflow Fundamentals]
 - Neural Network Regression with Tensorflow
--Neural Network Classification with Tensorflow
--Computer Vision and Convolutional Neural Network with Tensorflow
--Transfer Learning in Tensorflow
---Feature Extraction
---Scaling Up
---Fine Tuning
--Natural Language Processing (NLP)
--Time Series Analysis
+- Neural Network Classification with Tensorflow
+- Computer Vision and Convolutional Neural Network with Tensorflow
+- Transfer Learning in Tensorflow
+  - Feature Extraction
+  - Scaling Up
+  - Fine Tuning
+- Natural Language Processing (NLP)
+- Time Series Analysis
 
 
 # Prerequisites
