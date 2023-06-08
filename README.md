@@ -12,6 +12,12 @@ Scaling Up
 Fine Tuning
 Natural Language Processing (NLP)
 Time Series Analysis
+
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Collaboration](#collaboration)
+5. [FAQs](#faqs)
 # Prerequisites
 To run the code and exercises in this repository, you will need to have the following installed:
 
