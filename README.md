@@ -36,6 +36,6 @@ The Tensorflow Developer Certificate is earned by completing the required projec
 
 Feel free to explore the different directories and dive into the projects to gain a deeper understanding of deep learning, Tensorflow, computer vision, NLP, and time series analysis.
 
-**Note:** This repository is a work in progress and will be continually updated with new projects and exercises as I progress through the Tensorflow Developer Certificate program.
+__Note:__ This repository is a work in progress and will be continually updated with new projects and exercises as I progress through the Tensorflow Developer Certificate program.
 
 If you have any questions or suggestions, feel free to reach out or submit an issue. Happy learning!
