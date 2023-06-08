@@ -17,10 +17,10 @@ This repository contains the projects and exercises completed as part of the Ten
 # Prerequisites
 To run the code and exercises in this repository, you will need to have the following installed:
 
-Python (version 3.6 or later)
-Tensorflow (version 2.0 or later)
-Additional dependencies as mentioned in each subdirectory's README file
-#Getting Started
+- Python (version 3.6 or later)
+- Tensorflow (version 2.0 or later)
+- Additional dependencies as mentioned in each subdirectory's README file
+# Getting Started
 Clone this repository to your local machine:
 bash
 Copy code
