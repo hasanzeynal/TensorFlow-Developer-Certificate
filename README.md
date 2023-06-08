@@ -13,11 +13,11 @@ Fine Tuning
 Natural Language Processing (NLP)
 Time Series Analysis
 
-- 1. [General Info](#https://chat.openai.com/)
-- 2. [Technologies](#technologies)
-- 3. [Installation](#installation)
-- 4. [Collaboration](#)
-- 5. [FAQs](mn.com)
+- [General Info](https://chat.openai.com/)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Collaboration](#)
+- [FAQs](mn.com)
 # Prerequisites
 To run the code and exercises in this repository, you will need to have the following installed:
 
