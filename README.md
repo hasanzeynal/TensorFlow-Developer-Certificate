@@ -17,7 +17,7 @@ Time Series Analysis
 - 2. [Technologies](#technologies)
 - 3. [Installation](#installation)
 - 4. [Collaboration](#)
-- 5. [FAQs](#faqs)
+- 5. [FAQs](mn.com)
 # Prerequisites
 To run the code and exercises in this repository, you will need to have the following installed:
 
