@@ -10,7 +10,7 @@ This repository contains the projects and exercises completed as part of the Ten
   - [Feature Extraction]
   - [Scaling Up]
   - [Fine Tuning]
-- [Natural Language Processing (NLP)]
+- [Natural Language Processing NLP]
 - [Time Series Analysis]
 
 
