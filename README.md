@@ -33,6 +33,7 @@ The Tensorflow Developer Certificate is earned by completing the required projec
 - [Tensorflow Official Documentation]()
 - [Tensorflow Developer Certificate Program]()
 - [TensorFlow Developer Certificate in 2023: Zero to Mastery by Udemy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
+
 Feel free to explore the different directories and dive into the projects to gain a deeper understanding of deep learning, Tensorflow, computer vision, NLP, and time series analysis.
 
 [Note:] This repository is a work in progress and will be continually updated with new projects and exercises as I progress through the Tensorflow Developer Certificate program.
