@@ -7,7 +7,7 @@ This repository contains the projects and exercises completed as part of the Ten
 - [Neural Network Classification with Tensorflow]()
 - [Computer Vision and Convolutional Neural Network with Tensorflow]()
 - [Transfer Learning in Tensorflow]()
-  - [Feature Extraction]()
+  -[Feature Extraction]()
   - [Scaling Up]()
   - [Fine Tuning]()
 - [Natural Language Processing NLP]()
