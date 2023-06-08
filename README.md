@@ -30,8 +30,8 @@ git clone https://github.com/hasanzeynal/Tensorflow-Developer-Certificate.git
 The Tensorflow Developer Certificate is earned by completing the required projects and exercises in this repository and passing the final examination. Each project focuses on practical implementations of deep learning concepts using Tensorflow.
 
 # Resources
-- [Tensorflow Official Documentation]()
-- [Tensorflow Developer Certificate Program]()
+- [Tensorflow Official Documentation](https://www.tensorflow.org/guide)
+- [Tensorflow Developer Certificate Program](https://www.tensorflow.org/certificate)
 - [TensorFlow Developer Certificate in 2023: Zero to Mastery by Udemy](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
 
 Feel free to explore the different directories and dive into the projects to gain a deeper understanding of deep learning, Tensorflow, computer vision, NLP, and time series analysis.
