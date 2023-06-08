@@ -16,7 +16,7 @@ Time Series Analysis
 1. [General Info](#htranslate)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
+4. [Collaboration](#)
 5. [FAQs](#faqs)
 # Prerequisites
 To run the code and exercises in this repository, you will need to have the following installed:
