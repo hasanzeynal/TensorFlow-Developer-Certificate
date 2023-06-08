@@ -13,7 +13,7 @@ Fine Tuning
 Natural Language Processing (NLP)
 Time Series Analysis
 
-1. [General Info](#https://translate.google.com/?sl=en&tl=az&text=low-resolution%20images&op=translate)
+1. [General Info](#htranslate)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
