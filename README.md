@@ -13,7 +13,7 @@ Fine Tuning
 Natural Language Processing (NLP)
 Time Series Analysis
 
-- 1. [General Info](#htranslate)
+- 1. [General Info](#https://chat.openai.com/)
 - 2. [Technologies](#technologies)
 - 3. [Installation](#installation)
 - 4. [Collaboration](#)
