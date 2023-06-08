@@ -3,21 +3,17 @@ This repository contains the projects and exercises completed as part of the Ten
 
 # Table of Contents
 [Deep Learning and Tensorflow Fundamentals]
-Neural Network Regression with Tensorflow
-Neural Network Classification with Tensorflow
-Computer Vision and Convolutional Neural Network with Tensorflow
-Transfer Learning in Tensorflow
-Feature Extraction
-Scaling Up
-Fine Tuning
-Natural Language Processing (NLP)
-Time Series Analysis
+-Neural Network Regression with Tensorflow
+-Neural Network Classification with Tensorflow
+-Computer Vision and Convolutional Neural Network with Tensorflow
+-Transfer Learning in Tensorflow
+--Feature Extraction
+--Scaling Up
+--Fine Tuning
+-Natural Language Processing (NLP)
+-Time Series Analysis
 
-- [General Info](https://chat.openai.com/)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Collaboration](#)
-- [FAQs](mn.com)
+
 # Prerequisites
 To run the code and exercises in this repository, you will need to have the following installed:
 
