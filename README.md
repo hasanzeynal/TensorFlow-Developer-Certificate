@@ -1,5 +1,5 @@
 # Tensorflow Developer Certificate
-This repository contains the projects and exercises completed as part of the Tensorflow Developer Certificate program. The certification program covers various topics in deep learning, Tensorflow fundamentals, computer vision, natural language processing (NLP), time series analysis, and more.
+This repository contains the projects and exercises completed as part of the Tensorflow Developer Certificate program. The certification program covers various topics in deep learning, Tensorflow fundamentals, Computer Vision, Natural Language Processing (NLP), Time Series Analysis, and more.
 
 # Table of Contents
 - [Deep Learning and Tensorflow Fundamentals]()
