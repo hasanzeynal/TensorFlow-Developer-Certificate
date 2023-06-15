@@ -2,7 +2,7 @@
 
 # Table of Contents
 - [Deep Learning and Tensorflow Fundamentals](https://github.com/hasanzeynal/Tensorflow-Developer-Certificate/tree/main/TensorFlow%20Fundamentals)
-- [Neural Network Regression with Tensorflow]()
+- [Neural Network Regression with Tensorflow](https://github.com/hasanzeynal/Tensorflow-Developer-Certificate/tree/main/01_Neural_Network_Regression_in_TensorFlow)
 - [Neural Network Classification with Tensorflow]()
 - [Computer Vision and Convolutional Neural Network with Tensorflow]()
 - [Transfer Learning in Tensorflow]()
