@@ -4,7 +4,7 @@
 - [Deep Learning and Tensorflow Fundamentals](https://github.com/hasanzeynal/Tensorflow-Developer-Certificate/blob/main/00_TensorFlow_Fundamentals/dl_tensorflow_fundamentals.ipynb)
 - [Neural Network Regression with Tensorflow](https://github.com/hasanzeynal/Tensorflow-Developer-Certificate/blob/main/01_Neural_Network_Regression_in_TensorFlow/neural_network_regression_in_tensorflow.ipynb)
 - [Neural Network Classification with Tensorflow](https://github.com/hasanzeynal/TensorFlow-Developer-Certificate/tree/main/02_Neural_Network_Classification_in_TensorFlow)
-- [Computer Vision and Convolutional Neural Network with Tensorflow]()
+- [Computer Vision and Convolutional Neural Network with Tensorflow](https://github.com/hasanzeynal/TensorFlow-Developer-Certificate/blob/main/03_CNN_Computer_Vision/computer_vision_and_convolutional_neural_networks_in_tensorflow.ipynb)
 - [Transfer Learning in Tensorflow]()
   - [Feature Extraction]()
   - [Scaling Up]()
