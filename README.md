@@ -10,7 +10,7 @@
   - [Scaling Up]()
   - [Fine Tuning]()
 - [Natural Language Processing NLP]()
-- [Time Series Analysis]()
+- [Time Series Analysis](https://github.com/hasanzeynal/TensorFlow-Developer-Certificate/blob/main/08_Time_Series_Forecasting/time_series_analysis_and_forecasting_in_tensorflow.ipynb)
 
 
 # Prerequisites
